@@ -1,2 +1,2 @@
-# Pong
-Pong game.
+# Pong with an AI
+
